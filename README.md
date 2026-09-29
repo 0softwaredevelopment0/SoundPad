@@ -10,7 +10,7 @@ Soundpad is a lightweight, cross-platform soundboard application designed for ea
 
 ### Organization Docs
 
-[![Guide](https://img.shields.io/badge/Guide-rizer001--Development-00AEFF)](https://github.com/rizer001-Development/.github/blob/main/GUIDE.md) · [![Contributing](https://img.shields.io/badge/Contributing-rizer001--Development-4CAF50)](https://github.com/rizer001-Development/.github/blob/main/CONTRIBUTING.md) · [![Security](https://img.shields.io/badge/Security-rizer001--Development-D9534F)](https://github.com/rizer001-Development/.github/blob/main/SECURITY.md) · [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-rizer001--Development-5BC0DE)](https://github.com/rizer001-Development/.github/blob/main/CODE_OF_CONDUCT.md)
+[![Guide](https://img.shields.io/badge/Guide-0softwaredevelopment0-00AEFF)](https://github.com/0softwaredevelopment0/.github/blob/main/GUIDE.md) · [![Contributing](https://img.shields.io/badge/Contributing-0softwaredevelopment0-4CAF50)](https://github.com/0softwaredevelopment0/.github/blob/main/CONTRIBUTING.md) · [![Security](https://img.shields.io/badge/Security-0softwaredevelopment0-D9534F)](https://github.com/0softwaredevelopment0/.github/blob/main/SECURITY.md) · [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-0softwaredevelopment0-5BC0DE)](https://github.com/0softwaredevelopment0/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Features
 
@@ -95,7 +95,7 @@ src/
 
 ## Contributing
 
-Contributions are welcome. Please see the organization [Contributing guide](https://github.com/rizer001-Development/.github/blob/main/CONTRIBUTING.md).
+Contributions are welcome. Please see the organization [Contributing guide](https://github.com/0softwaredevelopment0/.github/blob/main/CONTRIBUTING.md).
 
 ## License
 
