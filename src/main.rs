@@ -1560,11 +1560,17 @@ fn fmt_time(secs: f32) -> String {
 fn main() -> eframe::Result {
     env_logger::init();
 
+    let mut viewport = egui::ViewportBuilder::default()
+        .with_title("Soundpad")
+        .with_inner_size([1200.0, 800.0])
+        .with_min_inner_size([900.0, 600.0]);
+    if let Ok(icon) =
+        eframe::icon_data::from_png_bytes(include_bytes!("../resources/app-icon.png").as_slice())
+    {
+        viewport = viewport.with_icon(std::sync::Arc::new(icon));
+    }
     let options = eframe::NativeOptions {
-        viewport: egui::ViewportBuilder::default()
-            .with_title("Soundpad")
-            .with_inner_size([1200.0, 800.0])
-            .with_min_inner_size([900.0, 600.0]),
+        viewport,
         ..Default::default()
     };
 

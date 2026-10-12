@@ -1,10 +1,13 @@
-[package]
+﻿[package]
 name = "soundpad"
 version = "1.1.0"
 edition = "2021"
 description = "Free, open-source soundpad for gamers and streamers"
 license = "AGPL-3.0"
 authors = ["rizer01"]
+
+[build-dependencies]
+winresource = "0.1"
 
 [dependencies]
 # GUI
